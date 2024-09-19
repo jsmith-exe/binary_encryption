@@ -1,1 +1,1 @@
-This file encrypts every bit of an integer
+Encrypts and Decrypts every 'bit' of a given integer.
